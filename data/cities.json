@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2025-08-20T17:13:33.922Z",
+      "notes": "",
+      "position": {
+        "lat": "38.766948396821626",
+        "lng": "-9.155787151142674"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Township of Howard",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2025-08-20T17:35:50.895Z",
+      "notes": "",
+      "position": {
+        "lat": "43.992997300744506",
+        "lng": "-97.55869080038761"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Tetsworth",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2025-08-20T17:38:33.081Z",
+      "notes": "",
+      "position": {
+        "lat": "51.72686502597608",
+        "lng": "-1.0220567115280144"
+      },
+      "id": 5
+    },
+    {
+      "cityName": "Aghbalou n’Kerdous",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2025-08-20T17:43:12.251Z",
+      "notes": "",
+      "position": {
+        "lat": "31.59825884554278",
+        "lng": "-5.450993824642895"
+      },
+      "id": 6
+    },
+    {
+      "cityName": "Campli",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2025-08-21T12:57:53.036Z",
+      "notes": "",
+      "position": {
+        "lat": "42.72787758930619",
+        "lng": "13.72026938539343"
+      },
+      "id": 7
+    }
+  ]
+}
