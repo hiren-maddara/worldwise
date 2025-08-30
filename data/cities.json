@@ -49,18 +49,6 @@
       "id": 6
     },
     {
-      "cityName": "Campli",
-      "country": "Italy",
-      "emoji": "🇮🇹",
-      "date": "2025-08-21T12:57:53.036Z",
-      "notes": "",
-      "position": {
-        "lat": "42.72787758930619",
-        "lng": "13.72026938539343"
-      },
-      "id": 7
-    },
-    {
       "cityName": "Seriate",
       "country": "Italy",
       "emoji": "🇮🇹",
