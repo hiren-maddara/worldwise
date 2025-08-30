@@ -7,7 +7,7 @@ import {
 } from "react";
 
 const CitiesContext = createContext();
-const BASE_URL = "http://localhost:8050";
+const BASE_URL = "https://worldwise-rbsg.onrender.com";
 
 const initialState = {
 	cities: [],
